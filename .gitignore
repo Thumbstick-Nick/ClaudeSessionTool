@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller
+build/
+dist/
+
+# Inno Setup
+dist-installer/
+
+# Generated assets (rebuilt from icon.png)
+icon.ico
+
+# User-specific runtime config (each user gets their own)
+config.json
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Backup of user's Claude settings created during dev
+settings.json.bak
